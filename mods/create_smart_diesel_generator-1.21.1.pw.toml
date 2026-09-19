@@ -1,0 +1,13 @@
+name = "create_smart_diesel_generator-1.21.1"
+filename = "create_smart_diesel_generator-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ktbI68Ct/versions/1HUGCkxD/create_smart_diesel_generator-1.21.1.jar"
+hash-format = "sha1"
+hash = "55e440e62ec5cd99fa629e17368285c4188b369d"
+
+[update]
+[update.modrinth]
+mod-id = "ktbI68Ct"
+version = "1HUGCkxD"

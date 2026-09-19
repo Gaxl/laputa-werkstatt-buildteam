@@ -1,0 +1,8 @@
+name = "ars_technica-1.21.1-2.7.6"
+filename = "ars_technica-1.21.1-2.7.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gaxl/laputa-werkstatt-buildteam/main/mods/ars_technica-1.21.1-2.7.6.jar"
+hash-format = "sha1"
+hash = "adb2641d538375f6eff6a22f0196bb330ab0b171"

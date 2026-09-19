@@ -1,0 +1,13 @@
+name = "create-track-map-2.1+mc1.21.1-neoforge"
+filename = "create-track-map-2.1+mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NHRXB9Bi/versions/EYyY9A0V/create-track-map-2.1%2Bmc1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "b4dc2390c4678305aa96c6faedf9e4c54161ec04"
+
+[update]
+[update.modrinth]
+mod-id = "NHRXB9Bi"
+version = "EYyY9A0V"

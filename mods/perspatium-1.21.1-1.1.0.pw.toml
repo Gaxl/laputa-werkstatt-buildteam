@@ -1,0 +1,13 @@
+name = "perspatium-1.21.1-1.1.0"
+filename = "perspatium-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IHyWDPnp/versions/6tlFwckH/perspatium-1.21.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "7dd23511dc712f15d4588d2189887750ff8195a8"
+
+[update]
+[update.modrinth]
+mod-id = "IHyWDPnp"
+version = "6tlFwckH"

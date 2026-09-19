@@ -1,0 +1,13 @@
+name = "oilcanister-2.0.0"
+filename = "oilcanister-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UBPNaDVx/versions/e9Hazjqx/oilcanister-2.0.0.jar"
+hash-format = "sha1"
+hash = "4c3403b620ce8cc698f612789c05dc3c5b580f7b"
+
+[update]
+[update.modrinth]
+mod-id = "UBPNaDVx"
+version = "e9Hazjqx"

@@ -1,0 +1,8 @@
+name = "Botania-Mod-NeoForge-1.21.1"
+filename = "Botania-Mod-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gaxl/laputa-werkstatt-buildteam/main/mods/Botania-Mod-NeoForge-1.21.1.jar"
+hash-format = "sha1"
+hash = "51eee45c4615432f9c0d72938fe83a121878716e"

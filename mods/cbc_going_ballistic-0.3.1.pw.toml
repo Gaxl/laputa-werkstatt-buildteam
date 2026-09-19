@@ -1,0 +1,13 @@
+name = "cbc_going_ballistic-0.3.1"
+filename = "cbc_going_ballistic-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xxaCKdq3/versions/KPczpdLq/cbc_going_ballistic-0.3.1.jar"
+hash-format = "sha1"
+hash = "7270f0b116bb73f5946f0827cdcf9551e111fd3d"
+
+[update]
+[update.modrinth]
+mod-id = "xxaCKdq3"
+version = "KPczpdLq"

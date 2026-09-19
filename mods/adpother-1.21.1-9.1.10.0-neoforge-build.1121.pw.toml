@@ -1,0 +1,13 @@
+name = "AdPother-1.21.1-9.1.10.0-NeoForge-build.1121"
+filename = "AdPother-1.21.1-9.1.10.0-NeoForge-build.1121.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SN8xUUfR/versions/Pk8F88mH/AdPother-1.21.1-9.1.10.0-NeoForge-build.1121.jar"
+hash-format = "sha1"
+hash = "dd323dbff3a0144773fc63bb419f0ffca15ecb3b"
+
+[update]
+[update.modrinth]
+mod-id = "SN8xUUfR"
+version = "Pk8F88mH"

@@ -1,0 +1,8 @@
+name = "ftb-chunks-neoforge-2101.1.20"
+filename = "ftb-chunks-neoforge-2101.1.20.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gaxl/laputa-werkstatt-buildteam/main/mods/ftb-chunks-neoforge-2101.1.20.jar"
+hash-format = "sha1"
+hash = "f8fd8b158379015302f7aa234785f29a1353803d"

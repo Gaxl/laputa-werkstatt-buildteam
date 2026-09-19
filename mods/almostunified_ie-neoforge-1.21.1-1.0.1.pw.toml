@@ -1,0 +1,13 @@
+name = "almostunified_ie-neoforge-1.21.1-1.0.1"
+filename = "almostunified_ie-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hCyAnqqq/versions/QNmpHq1W/almostunified_ie-neoforge-1.21.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "0940f4ac40f87ba12e6978ad80eb8eb756822aba"
+
+[update]
+[update.modrinth]
+mod-id = "hCyAnqqq"
+version = "QNmpHq1W"

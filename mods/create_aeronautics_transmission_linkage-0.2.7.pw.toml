@@ -1,0 +1,13 @@
+name = "create_aeronautics_transmission_linkage-0.2.7"
+filename = "create_aeronautics_transmission_linkage-0.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y1dq5ioE/versions/VtjOWtYD/create_aeronautics_transmission_linkage-0.2.7.jar"
+hash-format = "sha1"
+hash = "dee7a9879b27db5be4831d140e39aba3a051e3ae"
+
+[update]
+[update.modrinth]
+mod-id = "Y1dq5ioE"
+version = "VtjOWtYD"

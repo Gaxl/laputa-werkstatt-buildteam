@@ -1,0 +1,13 @@
+name = "occultengineering-1.21.1-0.12.3"
+filename = "occultengineering-1.21.1-0.12.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FHMHF9Qr/versions/Se09d8Qf/occultengineering-1.21.1-0.12.3.jar"
+hash-format = "sha1"
+hash = "4837e4ace0c1140aea8217b4d0347c652942c094"
+
+[update]
+[update.modrinth]
+mod-id = "FHMHF9Qr"
+version = "Se09d8Qf"

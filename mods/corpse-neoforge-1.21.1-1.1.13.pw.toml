@@ -1,0 +1,8 @@
+name = "corpse-neoforge-1.21.1-1.1.13"
+filename = "corpse-neoforge-1.21.1-1.1.13.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gaxl/laputa-werkstatt-buildteam/main/mods/corpse-neoforge-1.21.1-1.1.13.jar"
+hash-format = "sha1"
+hash = "4f42091ef36e98e99c2f28a273ded960c0ac08bd"

@@ -1,0 +1,8 @@
+name = "moonlight-neoforge-1.21.1-3.2.1"
+filename = "moonlight-neoforge-1.21.1-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gaxl/laputa-werkstatt-buildteam/main/mods/moonlight-neoforge-1.21.1-3.2.1.jar"
+hash-format = "sha1"
+hash = "3a5f5fbc6082708b3b0bd6e54d74ebbc69e70048"

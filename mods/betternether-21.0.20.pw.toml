@@ -1,0 +1,13 @@
+name = "BetterNether-21.0.20"
+filename = "BetterNether-21.0.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fxX3RlL5/versions/e8bqKJup/BetterNether-21.0.20.jar"
+hash-format = "sha1"
+hash = "b618c2c7325bc04e3f356718661bf30923e4d4d6"
+
+[update]
+[update.modrinth]
+mod-id = "fxX3RlL5"
+version = "e8bqKJup"

@@ -1,0 +1,12 @@
+name = "Laputa Werkstatt - Build Team"
+author = "Laputa Werkstatt"
+version = "1.0.0"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.244"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "685b846ae44a7b1f56d2c87b952043d43c5153a69a63b0651abfb1b6489673aa"

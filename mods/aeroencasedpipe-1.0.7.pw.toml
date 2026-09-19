@@ -1,0 +1,13 @@
+name = "aeroencasedpipe-1.0.7"
+filename = "aeroencasedpipe-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DdAlVT8M/versions/pKFEfjEB/aeroencasedpipe-1.0.7.jar"
+hash-format = "sha1"
+hash = "94012ef7cb564267caa91e29a63d48c32be0b341"
+
+[update]
+[update.modrinth]
+mod-id = "DdAlVT8M"
+version = "pKFEfjEB"

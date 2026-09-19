@@ -1,0 +1,13 @@
+name = "neoforge-excessive_building-1.21.1-4.0.2"
+filename = "neoforge-excessive_building-1.21.1-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2vsx0HYf/versions/GeGkzRRV/neoforge-excessive_building-1.21.1-4.0.2.jar"
+hash-format = "sha1"
+hash = "76717bd9ba894dfcb34d62653d755ba95cffa0df"
+
+[update]
+[update.modrinth]
+mod-id = "2vsx0HYf"
+version = "GeGkzRRV"

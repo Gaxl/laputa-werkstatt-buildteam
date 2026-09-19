@@ -1,0 +1,13 @@
+name = "ISS-1.21.1"
+filename = "ISS-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xmx7meIV/versions/rkThfF1I/ISS-1.21.1.jar"
+hash-format = "sha1"
+hash = "dc824a92a51129ca3c8f0210dcb88d7f7e792c11"
+
+[update]
+[update.modrinth]
+mod-id = "Xmx7meIV"
+version = "rkThfF1I"

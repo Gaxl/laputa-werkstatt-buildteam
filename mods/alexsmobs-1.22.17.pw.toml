@@ -1,0 +1,13 @@
+name = "alexsmobs-1.22.17"
+filename = "alexsmobs-1.22.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EmNhnNnt/versions/KSgki4uc/alexsmobs-1.22.17.jar"
+hash-format = "sha1"
+hash = "5070e8070f60650d773bfd9f1d031496f8f50259"
+
+[update]
+[update.modrinth]
+mod-id = "EmNhnNnt"
+version = "KSgki4uc"

@@ -1,0 +1,13 @@
+name = "climbable_ropes-2.1.1"
+filename = "climbable_ropes-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jImqv1M5/versions/aRyfYH0t/climbable_ropes-2.1.1.jar"
+hash-format = "sha1"
+hash = "ef3d22aa3281be20583d5170530a8aaab8449b06"
+
+[update]
+[update.modrinth]
+mod-id = "jImqv1M5"
+version = "aRyfYH0t"

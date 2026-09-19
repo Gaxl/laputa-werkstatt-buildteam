@@ -1,0 +1,13 @@
+name = "DistantHorizons-3.3.1-1.21.1"
+filename = "DistantHorizons-3.3.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/IcOcoekl/DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar"
+hash-format = "sha1"
+hash = "740532bd920ba59b828caa4eebc3cf90160556c1"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "IcOcoekl"

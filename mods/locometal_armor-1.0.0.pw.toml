@@ -1,0 +1,13 @@
+name = "locometal_armor-1.0.0"
+filename = "locometal_armor-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qa2vGoU/versions/92T1LTXx/locometal_armor-1.0.0.jar"
+hash-format = "sha1"
+hash = "fe5f24c17262788c2a89add5da7067ee0e3138de"
+
+[update]
+[update.modrinth]
+mod-id = "4qa2vGoU"
+version = "92T1LTXx"

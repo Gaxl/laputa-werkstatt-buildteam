@@ -1,0 +1,13 @@
+name = "dungeons-and-taverns-desert-temple-replacement-v1.2"
+filename = "dungeons-and-taverns-desert-temple-replacement-v1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7JTDDmRT/versions/jwKNecIA/dungeons-and-taverns-desert-temple-replacement-v1.2.jar"
+hash-format = "sha1"
+hash = "93ed4116568023c8992fa8f81eab871158c797fb"
+
+[update]
+[update.modrinth]
+mod-id = "7JTDDmRT"
+version = "jwKNecIA"

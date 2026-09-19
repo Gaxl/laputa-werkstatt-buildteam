@@ -1,0 +1,8 @@
+name = "ftb-library-neoforge-2101.1.35"
+filename = "ftb-library-neoforge-2101.1.35.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gaxl/laputa-werkstatt-buildteam/main/mods/ftb-library-neoforge-2101.1.35.jar"
+hash-format = "sha1"
+hash = "9922fa358983120edeed22194bf02bcf9c859fbb"

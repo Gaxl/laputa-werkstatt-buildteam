@@ -1,0 +1,13 @@
+name = "powergrid-mc1.21.1-0.5.5.1"
+filename = "powergrid-mc1.21.1-0.5.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eWiBLJ9R/versions/8EtGIOFr/powergrid-mc1.21.1-0.5.5.1.jar"
+hash-format = "sha1"
+hash = "06b0500d7101c5846e9e2c5bb4b53646a50ef133"
+
+[update]
+[update.modrinth]
+mod-id = "eWiBLJ9R"
+version = "8EtGIOFr"

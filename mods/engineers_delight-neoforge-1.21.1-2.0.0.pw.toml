@@ -1,0 +1,13 @@
+name = "engineers_delight-neoforge-1.21.1-2.0.0"
+filename = "engineers_delight-neoforge-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4fb7lmRe/versions/TRdTWb8C/engineers_delight-neoforge-1.21.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "10d7cd518648d2a0dce95f4e179835fac9a48b9a"
+
+[update]
+[update.modrinth]
+mod-id = "4fb7lmRe"
+version = "TRdTWb8C"

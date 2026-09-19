@@ -1,0 +1,13 @@
+name = "FpsReducer2-neoforge-1.21-2.10"
+filename = "FpsReducer2-neoforge-1.21-2.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/QcqljX3m/FpsReducer2-neoforge-1.21-2.10.jar"
+hash-format = "sha1"
+hash = "edb3e8d90992aae937c79827282f854f4cc5939c"
+
+[update]
+[update.modrinth]
+mod-id = "iZ10HXDj"
+version = "QcqljX3m"

@@ -1,0 +1,13 @@
+name = "extended-build-limit-1.18-1.21"
+filename = "extended-build-limit-1.18-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5up9GpJm/versions/KEzHVaK4/extended-build-limit-1.18-1.21.jar"
+hash-format = "sha1"
+hash = "74144e712acce075104d092105ba99c8d78f0f60"
+
+[update]
+[update.modrinth]
+mod-id = "5up9GpJm"
+version = "KEzHVaK4"

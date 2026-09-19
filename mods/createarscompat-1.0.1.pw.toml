@@ -1,0 +1,13 @@
+name = "createarscompat-1.0.1"
+filename = "createarscompat-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/19o1esLS/versions/DARnl85T/createarscompat-1.0.1.jar"
+hash-format = "sha1"
+hash = "1fe5f435e9a03d9477ccd71b431f7da470b07bbf"
+
+[update]
+[update.modrinth]
+mod-id = "19o1esLS"
+version = "DARnl85T"

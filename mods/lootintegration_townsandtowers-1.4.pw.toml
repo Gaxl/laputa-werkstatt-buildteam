@@ -1,0 +1,8 @@
+name = "lootintegration_townsandtowers-1.4"
+filename = "lootintegration_townsandtowers-1.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gaxl/laputa-werkstatt-buildteam/main/mods/lootintegration_townsandtowers-1.4.jar"
+hash-format = "sha1"
+hash = "703cbb57a8ce1008f080e886cec195e274a82c75"

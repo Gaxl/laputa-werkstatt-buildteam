@@ -1,0 +1,13 @@
+name = "twilightdelight-3.2.2"
+filename = "twilightdelight-3.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d6cSefpO/versions/HNXR3CwJ/twilightdelight-3.2.2.jar"
+hash-format = "sha1"
+hash = "995f2d598238144b695dfb7e118e472311ac1a69"
+
+[update]
+[update.modrinth]
+mod-id = "d6cSefpO"
+version = "HNXR3CwJ"

@@ -1,0 +1,13 @@
+name = "wavify-1.1.2"
+filename = "wavify-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yTjEgNSm/versions/OMoO25VK/wavify-1.1.2.jar"
+hash-format = "sha1"
+hash = "3c782ae151399fcc425569f850ed00ef8b82bff0"
+
+[update]
+[update.modrinth]
+mod-id = "yTjEgNSm"
+version = "OMoO25VK"
